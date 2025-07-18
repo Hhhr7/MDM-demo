@@ -3,9 +3,9 @@
 
 安装依赖
 <br>
-npm install
+```npm install```
 <br>
 <br>
 启动服务
 <br>
-nom run dev
+```npm run dev```
